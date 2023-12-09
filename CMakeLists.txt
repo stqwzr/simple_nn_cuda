@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.8 FATAL_ERROR)
+set(CMAKE_CUDA_COMPILER /usr/local/cuda/bin/nvcc)
+project(cuda_tuts LANGUAGES CXX CUDA)
+find_package(CUDA REQUIRED)
+include_directories("${CUDA_INCLUDE_DIRS}")
+enable_language(CUDA)
+add_executable(cuda_tuts main.cu)

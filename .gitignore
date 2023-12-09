@@ -1,3 +1,5 @@
+.idea
+cmake-build-cuda-debug
 # Prerequisites
 *.d
 
