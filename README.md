@@ -13,7 +13,10 @@ Before building and running the project, ensure you have the following installed
 ## Installation
 
 1. **Clone the Repository**  
-   Use Git to clone this repository onto your local machine. ```git clone https://github.com/stqwzr/simple_nn_cuda```
+   Use Git to clone this repository onto your local machine. 
+```
+git clone https://github.com/stqwzr/simple_nn_cuda
+```
 
 2. **Navigate to the Project Directory**  
    Change to the project directory in your terminal.
@@ -29,7 +32,9 @@ make
 
 4. **Run the Executable**  
    After building, you can run the executable created.
-``./cuda_tuts``
+```
+./cuda_tuts
+```
 
 
 ## Project Structure
