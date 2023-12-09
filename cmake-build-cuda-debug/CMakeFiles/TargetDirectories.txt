@@ -1,3 +1,0 @@
-/tmp/cmake-build-cuda-debug/CMakeFiles/rebuild_cache.dir
-/tmp/cmake-build-cuda-debug/CMakeFiles/edit_cache.dir
-/tmp/cmake-build-cuda-debug/CMakeFiles/cuda_tuts.dir
